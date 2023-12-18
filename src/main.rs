@@ -1,7 +1,6 @@
 mod unit_tests;
 
 fn main() {
-
     let full_name = get_full_name("John", "Doe");
 
     println!("\nHello {}\nNice to meet you <3", full_name);
